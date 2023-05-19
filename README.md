@@ -9,11 +9,10 @@ Función que realice un filtrado en los canales YCbCr.
 ## Introducción
 La primer parte es filtrar el rojo en una matriz en YCbCr, y la segunda parte es ver como para el ojo humano no es perceptible a el filtrado que se hace a la imagen en YCbCr.
 
-## Función ZOI
-<img src="imagenes/imagen_1.png" width="200"/>
-
-## Función ROI
-<img src="imagenes/imagen_2.png" width="200"/>
+<p>
+	<img src="imagenes/imagen_1.png" width="200"/>
+	<img src="imagenes/imagen_2.png" width="200"/>
+</p>
 
 ## Procedimiento
 Realiza un imread a una imagen en matlab.
