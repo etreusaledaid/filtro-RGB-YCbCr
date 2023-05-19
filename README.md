@@ -1,5 +1,5 @@
 # filtro-RGB-YCbCr
-Función que realice un filtrado en los canales YCbCr.
+Función que realiza un filtrado en los canales YCbCr.
 
 ## Objetivo
 *Usar la función Componet_Transformation.m para transformar la imagen en los canales YCbCr. Y filtrar el rojo.
